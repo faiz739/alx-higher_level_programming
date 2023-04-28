@@ -1,0 +1,22 @@
+{
+  "name": "0x14-javascript-web_scraping",
+  "version": "1.0.0",
+  "description": "0x14-javascript-web_scraping",
+  "main": "0-readme.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faiz739/alx-higher_level_programming.git"
+  },
+  "keywords": [
+    "random"
+  ],
+  "author": "Faithful chekwas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faiz739/alx-higher_level_programming/issues"
+  },
+  "homepage": "https://github.com/faiz739/alx-higher_level_programming#readme"
+}
